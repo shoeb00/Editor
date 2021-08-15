@@ -1,0 +1,12 @@
+.title{
+    color: steelblue;
+    font-family: cursive;
+    font: bolder;
+    text-align: center;
+}
+
+.main{
+    padding: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
